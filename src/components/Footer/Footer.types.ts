@@ -1,5 +1,5 @@
 import { Children } from 'types/index';
 
-export type LayoutProps = {
+export type FooterProps = {
   children?: Children;
 };
